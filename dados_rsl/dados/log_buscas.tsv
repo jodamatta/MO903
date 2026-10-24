@@ -1,0 +1,28 @@
+id	data	fonte	consulta	n_resultados
+Q01	2026-10-21	arxiv.org	training-free debiasing large language models inference-time bias mitigation	10
+Q02	2026-10-21	arxiv.org	activation steering social bias mitigation LLM stereotypes	10
+Q03	2026-10-21	aclanthology.org	prompting self-debiasing large language models reduce social bias without fine-tuning	10
+Q04	2026-10-21	arxiv.org	fairness in-context learning demonstration selection bias mitigation LLM	10
+Q05	2026-10-21	arxiv.org	tabular foundation model fairness TabPFN bias mitigation in-context	10
+Q06	2026-10-21	arxiv.org	attention intervention bias mitigation language models attention heads gender bias	10
+Q07	2026-10-21	arxiv.org	inference-time bias mitigation LLM decoding contrastive debiasing stereotypes	10
+Q08	2026-10-21	openreview.net	debiasing large language models without fine-tuning social bias benchmark BBQ	10
+Q09	2026-10-21	arxiv.org	steering vectors fairness LLM decision-making demographic disparity	10
+Q10	2026-10-21	arxiv.org	post-hoc bias mitigation LLM classification fairness prompting group fairness tabular data	10
+Q11	2026-10-21	arxiv.org	representation editing debiasing language models inference projection concept erasure LLM	10
+Q12	2026-10-21	neurips/pmlr/openreview	mitigating bias large language models test-time intervention fairness	10
+Q13	2026-10-21	aclanthology.org; dl.acm.org	fairness LLM in-context learning tabular classification demographic parity prompt mitigation	10
+Q14	2026-10-21	arxiv.org	counterfactual prompting debias LLM decisions hiring race gender inference-time	10
+Q15	2026-10-21	dl.acm.org; ojs.aaai.org	bias mitigation large language models AIES FAccT prompting intervention social bias	10
+Q16	2026-10-21	arxiv.org	neuron intervention debiasing LLM pruning attention heads social bias without retraining	10
+Q17	2026-10-21	sem filtro	fairness tabular foundation models TabICL TabDPT group fairness context	10
+Q18	2026-10-21	sem filtro	"training-free" OR "inference-time" fairness intervention LLM survey bias mitigation taxonomy intra-processing	9
+Q19	2026-10-21	arxiv.org	debiasing in-context learning LLM causal prompting demographic bias reduction	10
+Q20	2026-10-21	arxiv.org	fairness-aware prompting LLM zero-shot classification sensitive attribute unawareness	10
+Q21	2026-10-21	aclanthology.org	reducing social bias LLM chain-of-thought reasoning prompting debias BBQ evaluation	10
+Q22	2026-10-21	arxiv.org	latent space intervention fairness LLM high-stakes decisions demographic attribute direction ablation	10
+S01	2026-10-21	snowballing (sem filtro)	Tamkin 2023 Evaluating and Mitigating Discrimination in Language Model Decisions arXiv	9
+S02	2026-10-21	snowballing (sem filtro)	Ganguli The Capacity for Moral Self-Correction in Large Language Models arXiv 2023	9
+S03	2026-10-21	snowballing (sem filtro)	Schick Self-Diagnosis and Self-Debiasing decoding-based approach reducing corpus-based bias TACL 2021	9
+S04	2026-10-21	snowballing (sem filtro)	Si Prompting GPT-3 To Be Reliable ICLR 2023 social bias balanced demonstrations	10
+S05	2026-10-21	verificação (sem filtro)	BiasFreeBench benchmark mitigating bias large language model responses arXiv	10

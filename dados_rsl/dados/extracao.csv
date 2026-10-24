@@ -1,0 +1,59 @@
+id,chave,primeiro_autor,ano,venue,revisado,familia,tipo,ponto,subtipo,atributo,tarefa,acesso,n_modelos,benchmarks,utilidade,codigo,Q1,Q2,Q3,Q4,Q5,resultado
+R001,cheng2025biasfilter,Cheng,2025,Findings EMNLP,1,LLM,P,O,decodificação guiada por recompensa,F,geração,CP,6,CEB; FairMT,1,0,1,1,1,1,0,"Bias score CEB idade 18,0→10,8 (Llama-3-8B); latência ~4×"
+R003,chu2026debiasrag,Chu,2026,arXiv,0,LLM,P,P,RAG com contextos de desvieamento,I,geração,CB,4,StereoSet; CrowS-Pairs; SEAT,0.5,0,0.5,1,1,0.5,0,"SS GPT-2 57,6→49,7; LMS de gênero cai ~7 pts"
+R005,li2025fairsteer,Li,2025,Findings ACL,1,LLM,P,R,steering dinâmico de ativações,F,QA/geração,CB,6,BBQ; UNQOVER; CrowS-Pairs; CEB,1,0,1,1,1,1,0,"BBQ acc 48,6→74,0 (Llama2-13B); MMLU quase inalterado"
+R006,pan2026knowbias,Pan,2026,arXiv,0,LLM,P,R,amplificação de neurônios,F,QA,CB,4,BBQ; CrowS-Pairs; StereoSet,1,1,1,1,1,1,1,"melhor rank médio (2,1); utilidade ±0,04"
+R008,nadeem2025fairness,Nadeem,2025,arXiv,0,LLM,P,R,gating de neurônios na decodificação,N,diálogo/geração,CB,2,PCT; BBQ; FairMT; F2-Bench,1,0,1,0.5,1,1,0,"bias PCT 33,2→11,2 (DeepSeek-7B)"
+R010,siddique2025shifting,Siddique,2025,arXiv,0,LLM,P,R,vetores de steering,F,QA,CB,1,BBQ; StereoSet; CLEAR-Bias; MMLU,1,1,1,1,0.5,1,1,"BBQ +12,8%; MMLU −3,9 pts (vs −23,4 com FT)"
+R011,dubey2025activation,Dubey,2025,arXiv,0,LLM,P,R,vetores de steering,F,geração,CB,1,n/d,0,0,0.5,0,0,0,0,sem métrica quantitativa
+R012,chand2025nofreelunch,Chand,2025,arXiv,0,LLM,A,R,steering/patching/prompt (comparação),F,QA,CB,10,StereoSet,0.5,0,1,1,1,0.5,0,"melhora alvo em 20,6%; piora dimensões não-alvo em 31,5%"
+R013,paes2026dso,Monteiro Paes,2026,arXiv,0,LLM,P,R,steering otimizado por RL,F,QA/correferência,CB,8,SocialCounterfactuals; SynthBias; MMLU,1,0,1,1,1,1,0,"viés 60,4→5,9% (Qwen2.5-3B); ""não sei"" 13,6→45,6%"
+R014,wu2026novel,Wu,2026,ICML,1,LLM,A,P,instruções/objetivo no prompt,I,decisão sequencial,CP,17,bandit de contratação,0.5,0,1,0.5,1,0.5,0,"LLMs mais estratificados que humanos (SI 1,39 vs 0,84)"
+R016,xiao2025mediator,Xiao,2025,ISSTA,1,LLM,P,R,perturbação de ativações MLP,F,QA/classificação,CB,4,BBQ; BiasAsker; Adult; MMLU,1,0.5,1,1,1,1,0.5,sDIS −84%; MMLU inalterado; inferência 3×
+R017,gallegos2025self,Gallegos,2025,NAACL,1,LLM,P,P,autocorreção por prompt,N,QA,CP,3,BBQ,1,0,1,0.5,0.5,1,0,"bias score 0,136→0,023; acurácia sobe"
+R018,yang2025rethinking,Yang,2025,Findings ACL,1,LLM,A,P,prompts de desvieamento (comparação),N,QA,CP,8,BBQ; StereoSet; CrowS-Pairs,1,0,1,1,1,1,0,desvieamento superficial; >90% de itens neutros tidos como enviesados
+R019,furniturewala2024thinking,Furniturewala,2024,EMNLP,1,LLM,P,P,prompts estruturados/autorrefinamento,N,geração,CP,4,StereoSet; Regard; RTP; TruthfulQA,1,0,1,1,1,1,0,"SS −4,05%; ICAT +6,8%"
+R020,hida2025social,Hida,2025,Findings EMNLP,1,LLM,A,P,12 prompts de desvieamento,N,QA,CP,26,BBQ; CrowS-Pairs; StereoSet,1,1,1,0.5,1,1,1,efeito instável; alguns prompts pioram
+R021,sivakumar2025bias,Sivakumar,2025,Findings EMNLP,1,LLM,A,P,5 estratégias de prompt,N,QA/correferência,CP,4,WinoBias; BBQ-lite; Winogender,1,0,1,1,1,1,0,"viés intrínseco transfere (ρ≥0,94); nenhuma estratégia rompe"
+R023,xu2024walking,Xu,2024,EMNLP,1,LLM,P,P,autocorreção por tomada de perspectiva,N,geração,CP,5,RTP-High; BOLD,1,0,1,1,1,1,0,viés −73%; custo ~15× tokens
+R024,hu2024strategic,Hu,2024,EMNLP,1,LLM,P,P,seleção de demonstrações,F,classificação tabular,CP,6,Adult; Credit,1,0,1,1,1,1,0,"Δdp 0,22→0,07; acurácia 0,69→0,78"
+R025,bhaila2024fairicl,Bhaila,2024,arXiv,0,LLM,P,P,demonstrações via conceitos latentes,F,classificação tabular,CB,2,Adult,1,1,1,1,0.5,1,1,"ΔSP 0,14→0,08; acc −0,3 pt"
+R026,cherepanova2024improving,Cherepanova,2024,arXiv,0,LLM,P,P,prompt otimizado/few-shot/soft prompt,I,classificação tabular,CP,5,Adult; German; ACS,1,0,1,1,1,1,0,"DP ratio 0,51→0,95 (Mixtral); 420–2160 GPU-h"
+R027,kenfack2026fair,Kenfack,2026,TMLR,1,TFM,P,P,pré-processamento do contexto,F,classificação tabular,CP,3,ACS; German; Diabetes; CelebA,1,1,1,1,1,1,1,"ΔDP 14,2→8,9 (TabPFN, ACSIncome); acc −0,6 pt"
+R028,chhikara2024fewshot,Chhikara,2024,arXiv,0,LLM,P,P,regras de justiça + demonstrações RAG,I,classificação tabular,CP,3,Adult,1,0.5,1,0.5,0.5,1,0.5,melhora parcial; DI segue fora da regra dos 80%
+R043,pearman2026mechanics,Pearman,2026,arXiv,0,LLM,A,P,CoT zero-shot,N,QA,CP,5,BBQ; CrowS; StereoSet; SocioEconomicQA,0.5,0,1,0.5,1,0.5,0,CoT reduz em uns modelos e dobra viés em outros
+R044,zayed2024should,Zayed,2024,arXiv,0,LLM,P,R,temperatura da atenção,F,classificação/geração,CB,5,Twitter; Jigsaw; BOLD,1,1,1,1,1,1,1,"ΔDP +2,28 (BERT/Jigsaw); custo de execução ~0"
+R045,jahan2026robin,Jahan,2026,arXiv,0,LLM,P,R,projeção nas saídas de cabeças de atenção,F,correferência/LM,CB,4,WinoBias; StereoSet; WikiText-2,1,0.5,1,1,1,1,0.5,"gap WinoBias 15,3→9,8 (GPT-2); latência +7%"
+R046,xia2025beyond,Xia,2025,arXiv,0,LLM,P,O,intervenção contrastiva nos logits,N,QA,CB,2,StereoSet; Winogender; BBQ; CrowS,0.5,0,1,1,1,0.5,0,"SS 61,5→23,4% (Llama-3.1-8B)"
+R048,chen2025multipersona,Chen,2025,NeurIPS Workshop,1,LLM,P,P,multi-persona + juiz neutro,I,QA,CP,3,BBQ; StereoSet,1,0,1,1,1,1,0,"diff-bias 0,028→0,005 (70B); ~10 chamadas/consulta"
+R049,tong2024resource,Tong,2024,arXiv,0,LLM,P,O,especialistas pequenos nos logits,F,geração,CB,2,BOLD; StereoSet; WikiText-2,1,0,1,1,1,1,0,"SS raça 61,4→50,1 (GPT-2M); LMS −2 pts"
+R052,mukhopadhyay2025ambedkar,Mukhopadhyay,2025,arXiv,0,LLM,P,O,decodificação especulativa com verificador,I,geração,CB,10,corpus próprio (Índia),0.5,0.5,0.5,0.5,1,0.5,0.5,IIR religião −26 pts; latência +6%
+R053,xu2026biasfreebench,Xu,2026,ICLR,1,LLM,A,P,prompting vs treino (comparação),N,QA/diálogo,CP,7,BBQ; FairMT,1,1,1,1,1,1,1,prompting supera treino em todos os modelos
+R054,lin2026bidirectional,Lin,2026,arXiv,0,LLM,P,R,fixação de neurônios,F,QA/correferência,CB,3,StereoSet; BBQ; WinoBias,1,0,1,1,1,1,0,"gap WinoBias 25,3→1,0; acc_dis −2,3 pts"
+R055,du2025collective,Du,2025,ICML Workshop,1,LLM,P,P,roteamento/colaboração multi-modelo,I,QA,CP,50,BBQ; CrowdEval,0.5,0.5,1,0.5,0.5,0.5,0.5,"viés de idade −62,5%; debate ~27× custo"
+R064,sharma2025optimal,Sharma,2025,arXiv,0,LLM,P,R,steering afim ótimo (garantias),I,classificação,CB,2,Bias in Bios,1,0,1,1,0.5,1,0,reduz gaps de TPR; limites teóricos de perda
+R065,karvonen2025robustly,Karvonen,2025,arXiv,0,LLM,P,R,edição afim de conceito,F,decisão (triagem),CB,8,currículos; Tamkin; MMLU,1,1,1,1,1,1,1,"prompts falham em contexto realista (até 12%); ACE <2,5%"
+R066,zhong2025prompt,Zhong,2025,arXiv,0,LLM,P,P,votação sobre paráfrases/neutralização,I,classificação/geração,CP,1,Adult; BOLD,0,0,0.5,0,0.5,0,0,"divergência máx. 0,28→0,22; utilidade não medida"
+R068,xian2025group,Xian,2025,arXiv,0,LLM,P,O,pós-processamento sobre probabilidades,F,classificação,CP,4,Adult; ACSIncome; COMPAS; BiasBios; CivilComments,1,1,1,1,1,1,1,atributo inferido pelo próprio LLM; supera embeddings
+R069,recasens2025incontext,Recasens,2025,arXiv,0,LLM,P,P,pré-processamento do contexto,F,geração de dados tabulares,CP,4,Adult; COMPAS; Diabetes; Thyroid,1,0,1,0.5,1,1,0,SPD reduz; vulnerabilidade adversarial persiste
+R070,atwood2024inducing,Atwood,2024,arXiv,0,LLM,P,O,pós-processamento sobre logits,F,classificação (toxicidade),CB,2,Civil Comments Identity,1,0,1,1,0.5,1,0,prompting limitado; pós-processamento melhora
+R073,fayyazi2025facter,Fayyazi,2025,ICML,1,LLM,P,P,limiar conforme + exemplos no prompt,I,recomendação,CP,3,MovieLens-1M; Amazon,1,0,1,1,1,1,0,"violações −95,5%; NDCG −0,013"
+R082,cotta2024testtime,Cotta,2024,arXiv,0,LLM,P,P,aumento contrafactual por prompt (OOC),I,classificação,CP,7,Civil Comments; Bios; Amazon; MIMIC,1,0,1,1,1,1,0,"melhor em 23/27 pares; F1 −0,05"
+R088,nguyen2025race,Nguyen,2025,arXiv,0,LLM,P,R,subespaço de raça (DAS),F,decisão,CB,2,perfis sintéticos,1,0,1,1,0.5,1,0,BiasScore −81%; prompt de justiça aumenta viés
+R089,liu2024confronting,Liu,2024,NAACL,1,LLM,A,P,ICL e label flipping,I,classificação tabular,CP,1,Adult; German; COMPAS,1,0,1,1,0.5,1,0,"EoO 0,48→0,04 com label flipping; acc 0,90→0,68"
+R091,liu2026faircdd,Liu,2026,ACL,1,LLM,P,O,decodificação contrastiva guiada por atenção,I,classificação tabular,CB,5,Adult; COMPAS,1,0,1,1,1,1,0,"ΔSP 0,126→0,018; acc ≥ zero-shot"
+R095,bi2025group,Bi,2025,Findings EMNLP,1,LLM,P,P,CoT sobre grupos relacionados,N,geração,CP,5,GFAIR,0,1,1,0.5,1,0,1,"toxicidade 0,26→0,02"
+R097,christian2026self,Christian,2026,FAccT,1,LLM,P,P,autochamada cega (contrafactual),N,decisão,CP,2,cenários Tamkin,0,0.5,1,1,0.5,0,0.5,"prompts ""não discrimine"" aumentam desvio; autochamada elimina"
+R098,li2025prompting,Li,2025,ICLR,1,LLM,P,P,prompting guiado por causalidade,N,correferência/QA/decisão,CP,5,WinoBias; BBQ; Discrim-Eval,1,0,1,1,1,1,0,"gap WinoBias 15,5→2,2 (GPT-4)"
+R099,hoffstedde2026gender,Hoffstedde,2026,arXiv,0,LLM,A,P,instrução vs. redação de nomes,N,decisão (triagem),CP,5,currículos (Japão),0.5,0,1,0.5,1,0.5,0,instrução sem efeito significativo; redação remove viés
+R105,ling2025bias,Ling,2025,AAAI,1,LLM,P,P,prompting iterativo com testes,N,geração de código,CP,4,SocialBias-Bench,1,1,1,1,1,1,1,"CBS 60,6→8,8%; CoT aumenta viés"
+R107,xu2025moma,Xu,2025,AAAI,1,LLM,P,P,multiagente com intervenção causal,N,QA,CP,2,BBQ; StereoSet,1,1,1,1,0.5,1,1,"viés −87,7%; desempenho −6,8%"
+R111,ma2025breaking,Ma,2025,arXiv,0,LLM,A,R,poda de neurônios/cabeças,F,decisão (conselho),CB,1,prompts com nomes,1,0,1,0.5,0,1,0,"SMD −0,59→−0,37; sem neurônio de viés universal"
+R113,han2025diffheads,Han,2025,arXiv,0,LLM,P,R,mascaramento de cabeças de atenção,F,diálogo,CB,2,2.516 perguntas; MBPP; GSM8K; MMLU-CF,1,0,1,1,0.5,1,0,"injustiça −51%; MMLU-CF −6,7 pts"
+R122,liu2024openbbq,Liu,2024,arXiv,0,LLM,P,P,ICL composto (exemplos + CoT),N,QA aberto,CP,2,Open-BBQ,0.5,0,0.5,0.5,0.5,0.5,0,redução não quantificada no resumo
+R127,rotar2026fairness,Rotar,2026,arXiv,0,LLM,A,P,prompts conscientes de viés,I,recomendação,CP,3,MIND; CareerBuilder,1,0,1,0,1,1,0,até 74% de melhora; sobreajuste a grupos
+R131,wu2025reasoning,Wu,2025,Findings EMNLP,1,LLM,P,P,re-checagem por distribuição de respostas,N,QA,CP,9,BBQ,1,1,1,1,1,1,1,recupera 38–60% das respostas enviesadas
+R140,tamkin2023evaluating,Tamkin,2023,arXiv,0,LLM,A,P,instruções anti-discriminação,N,decisão,CP,1,discrim-eval,0.5,0.5,1,0.5,0,0.5,0.5,"escore ~0,15 mantendo 92% de correlação"
+R141,ganguli2023capacity,Ganguli,2023,arXiv,0,LLM,A,P,instrução + CoT,N,QA/correferência/decisão,CP,8,BBQ; Winogender; admissões,0,0,1,0.5,1,0,0,"BBQ −84% (175B, IF+CoT); emerge ~22B"
+R142,schick2021self,Schick,2021,TACL,1,LLM,P,O,self-debiasing na decodificação,N,geração,CB,4,RealToxicityPrompts; CrowS-Pairs,1,1,1,1,1,1,1,"toxicidade 39,4→17,6%; PPL 17,5→21,4"
+R143,si2023prompting,Si,2023,ICLR,1,LLM,P,P,demonstrações balanceadas + instrução,F,QA/correferência,CP,1,WinoBias; BBQ,1,1,1,1,0.5,1,1,"BBQ amb 24,7→1,9; acc_dis 97,3→51,5"

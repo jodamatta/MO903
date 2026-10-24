@@ -1,0 +1,220 @@
+qid	titulo	url
+Q01	BiasFilter: An Inference-Time Debiasing Framework for Large Language Models	https://arxiv.org/abs/2505.23829
+Q01	Training-Free Bias Mitigation by LLM-Assisted Bias Detection and Latent Variable Guidance	https://arxiv.org/html/2502.03826v4
+Q01	DebiasRAG: A Tuning-Free Path to Fair Generation in Large Language Models through Retrieval-Augmented Generation	https://arxiv.org/html/2605.16113
+Q01	Debias your Large Multi-Modal Model at Test-Time via Non-Contrastive Visual Attribute Steering	https://arxiv.org/html/2411.12590
+Q01	FairSteer: Inference Time Debiasing for LLMs with Dynamic Activation Steering	https://arxiv.org/html/2504.14492v1
+Q01	KnowBias: Mitigating Social Bias in LLMs via Know-Bias Neuron Enhancement	https://arxiv.org/html/2601.21864
+Q01	Steering Vectors for Bias Correction at Inference Time	https://arxiv.org/pdf/2506.18598
+Q01	Fairness Evaluation and Inference Level Mitigation in LLMs	https://arxiv.org/html/2510.18914
+Q01	Debias your Large Multi-Modal Model at Test-Time with Non-Contrastive Visual Attribute Steering	https://arxiv.org/html/2411.12590v1/
+Q01	Dissecting Bias in LLMs: A Mechanistic Interpretability Perspective	https://arxiv.org/html/2506.05166v2
+Q02	Shifting Perspectives: Steering Vectors for Robust Bias Mitigation in LLMs	https://arxiv.org/html/2503.05371v3
+Q02	Shifting Perspectives: Steering Vector Ensembles for Robust Bias Mitigation in LLMs	https://arxiv.org/html/2503.05371v1
+Q02	Activation Steering for Bias Mitigation: An Interpretable Approach to Safer LLMs	https://arxiv.org/abs/2508.09019
+Q02	No Free Lunch in Language Model Bias Mitigation? Targeted Bias Reduction Can Exacerbate Unmitigated LLM Biases	https://arxiv.org/html/2511.18635v1
+Q02	DSO: Direct Steering Optimization for Bias Mitigation	https://arxiv.org/html/2512.15926
+Q02	FairSteer: Inference Time Debiasing for LLMs with Dynamic Activation Steering	https://arxiv.org/html/2504.14492
+Q02	Large Language Models Develop Novel Social Biases Through Adaptive Exploration	https://arxiv.org/html/2511.06148v1
+Q02	KnowBias: Mitigating Social Bias in LLMs via Know-Bias Neuron Enhancement	https://arxiv.org/html/2601.21864
+Q02	CogBias: Measuring and Mitigating Cognitive Bias in Large Language Models	https://arxiv.org/pdf/2604.01366
+Q02	Fairness Mediator: Neutralize Stereotype Associations to Mitigate Bias in Large Language Models	https://arxiv.org/html/2504.07787v1
+Q03	Self-Debiasing Large Language Models: Zero-Shot Recognition and Reduction of Stereotypes	https://aclanthology.org/2025.naacl-short.74.pdf
+Q03	Self-Debiasing Large Language Models: Zero-Shot Recognition and Reduction of Stereotypes	https://aclanthology.org/2025.naacl-short.74/
+Q03	BiasFilter: An Inference-Time Debiasing Framework for Large Language Models	https://aclanthology.org/2025.findings-emnlp.821.pdf
+Q03	Rethinking Prompt-based Debiasing in Large Language Models	https://aclanthology.org/2025.findings-acl.1361.pdf
+Q03	On the Efficacy of Structured Prompts for Debiasing	https://aclanthology.org/2024.emnlp-main.13.pdf
+Q03	Social Bias Evaluation for Large Language Models	https://aclanthology.org/2025.findings-emnlp.783.pdf
+Q03	Bias after Prompting: Persistent Discrimination in Large Language Models	https://aclanthology.org/2025.findings-emnlp.1008.pdf
+Q03	BiasDPO: Mitigating Bias in Language Models through Direct Preference Optimization	https://aclanthology.org/2024.acl-srw.7.pdf
+Q03	FairSteer: Inference Time Debiasing for LLMs with Dynamic Activation Steering	https://aclanthology.org/2025.findings-acl.589.pdf
+Q03	How Perspective-Taking Guides Large Language Models	https://aclanthology.org/2024.emnlp-main.476.pdf
+Q04	Strategic Demonstration Selection for Improved Fairness in LLM In-Context Learning	https://arxiv.org/abs/2408.09757
+Q04	Strategic Demonstration Selection for Improved Fairness in LLM In-Context Learning	https://arxiv.org/html/2408.09757v1
+Q04	Fair In-Context Learning via Latent Concept Variables	https://arxiv.org/abs/2411.02671
+Q04	Fair In-Context Learning via Latent Concept Variables	https://arxiv.org/html/2411.02671v1
+Q04	Improving LLM Group Fairness on Tabular Data via In-Context Learning	https://arxiv.org/html/2412.04642v1
+Q04	Towards Fair In-Context Learning with Tabular Foundation Models	https://arxiv.org/html/2505.09503v3
+Q04	Context-aware Fairness Evaluation and Mitigation in LLMs	https://arxiv.org/html/2510.18914v1
+Q04	Few-Shot Fairness: Unveiling LLM's Potential for Fairness-Aware Classification	https://arxiv.org/html/2402.18502v1
+Q04	Debias It Yourself: Teaching LLMs Cognitive Bias-Mitigation Interventions	https://arxiv.org/html/2609.40124
+Q04	Comparable Demonstrations are Important in In-Context Learning: A Novel Perspective on Demonstration Selection	https://arxiv.org/html/2312.07476v2
+Q05	Towards Fair In-Context Learning with Tabular Foundation Models	https://arxiv.org/html/2505.09503v4
+Q05	Causal Pre-training Under the Fairness Lens: An Empirical Study of TabPFN	https://www.arxiv.org/pdf/2601.17912
+Q05	Causal Pre-training Under the Fairness Lens: An Empirical Study of TabPFN	https://arxiv.org/html/2601.17912v2
+Q05	Training Fair Tabular Foundation Models	https://arxiv.org/html/2608.14211
+Q05	When Tabular Foundation Models Meet Strategic Tabular Data: A Prior Alignment Approach	https://arxiv.org/html/2605.19662v1
+Q05	Causal Pre-training Under the Fairness Lens: An Empirical Study of TabPFN	https://arxiv.org/abs/2601.17912
+Q05	Untitled Document	https://arxiv.org/html/2601.09654
+Q05	A Mechanistic Study of Tabular Foundation Models	https://arxiv.org/html/2605.21288
+Q05	A Comparative Framework for Evaluating Foundation Models on Tabular Data: A Case Study in Healthcare	https://arxiv.org/html/2609.22154v1
+Q05	TabPFN Unleashed: A Scalable and Effective Solution to Tabular Classification Problems	https://arxiv.org/html/2502.02527v1
+Q06	ViD: Vision-Dominant Gender Bias Mitigation for Large Vision-Language Models	https://arxiv.org/html/2609.16647v1
+Q06	Images Speak Louder than Words: Understanding and Mitigating Bias in Vision-Language Model from a Causal Mediation Perspective	https://arxiv.org/html/2407.02814
+Q06	Bias A-head? Analyzing Bias in Transformer-Based Language Model Attention Heads	https://arxiv.org/html/2311.10395
+Q06	KLAAD: Refining Attention Mechanisms to Reduce Societal Bias in Generative Language Models	https://arxiv.org/html/2507.19962v1
+Q06	Are We Paying Attention to Her? Investigating Gender Disambiguation and Attention in Machine Translation	https://arxiv.org/html/2505.08546
+Q06	Mechanics of Bias and Reasoning: Interpreting the Impact of Chain-of-Thought Prompting on Gender Bias in LLMs	https://arxiv.org/html/2605.20410v1
+Q06	Should We Attend More or Less? Modulating Attention for Fairness	https://ar5iv.labs.arxiv.org/html/2305.13088
+Q06	Toward Localizing and Repairing Bias in Transformer Attention Heads	https://arxiv.org/html/2607.12863
+Q06	Dissecting Bias in LLMs: A Mechanistic Interpretability Perspective	https://arxiv.org/html/2506.05166v2
+Q06	Should We Attend More or Less? Modulating Attention for Fairness	https://arxiv.org/html/2305.13088
+Q07	Beyond Hidden-Layer Manipulation: Semantically-Aware Logit Interventions for Debiasing LLMs	https://arxiv.org/html/2510.23650v1
+Q07	Self-Debias: Self-correcting for Debiasing Large Language Models	https://arxiv.org/html/2604.08243v1
+Q07	Fairness Mediator: Neutralize Stereotype Associations to Mitigate Bias in Large Language Models	https://arxiv.org/html/2504.07787v1
+Q07	Multi-Persona Thinking for Bias Mitigation in Large Language Models	https://arxiv.org/html/2601.15488v1
+Q07	Towards Resource Efficient and Interpretable Bias Mitigation in Large Language Models	https://arxiv.org/abs/2412.01711
+Q07	Mitigating Bias in Large Vision-Language Models via Counterfactual Ensemble Decoding	https://arxiv.org/html/2608.21415
+Q07	Towards Resource Efficient and Interpretable Bias Mitigation in Large Language Models	https://arxiv.org/html/2412.01711
+Q07	Steering Towards Fairness: Mitigating Political Bias in LLMs	https://arxiv.org/html/2508.08846
+Q07	FairSteer: Inference Time Debiasing for LLMs with Dynamic Activation Steering	https://arxiv.org/html/2504.14492v1
+Q07	A Multi-level Bias Elimination through a Decoding Approach with Knowledge Augmentation for Robust Constitutional Alignment of Language Models	https://arxiv.org/html/2509.02133
+Q08	BiasFreeBench: a Benchmark for Mitigating Bias in Large Language Model Responses	https://openreview.net/pdf/035ab185a49871ca66e72512ce6d38c75027c0d8.pdf
+Q08	Bi-directional Bias Attribution: Debiasing Large Language Models without Modifying Prompts	https://openreview.net/forum?id=mUTN9VIaSy
+Q08	Collective Bias Mitigation via Model Routing and Collaboration	https://openreview.net/pdf?id=YWJYJduVej
+Q08	A Benchmark for Description-Based Evaluation of Social Bias in LLMs	https://openreview.net/pdf/41af4ebacca1796954c3c01ea39414dfd7af566e.pdf
+Q08	Beyond the Imitation Game Benchmark	https://openreview.net/notes/edits/attachment?id=c6xQgdvGz1&name=pdf
+Q08	Mitigating Social Biases in Language Models through Unlearning	https://openreview.net/pdf/76203f4b63c7b02c4042038d3028122606301369.pdf
+Q08	On Measuring Social Biases in Prompt-Based Learning	https://openreview.net/pdf/15d3ec3b711124f1676a3fa7c56e33c9f3b96a69.pdf
+Q08	Measuring Social Bias in Large Language Models	https://openreview.net/pdf?id=PxK8YJVMGla
+Q08	Towards Rigorous Benchmarking of Language Models	https://openreview.net/pdf?id=u46CbCaLufp
+Q08	Debiasing Pre-trained Language Models for Gender Pronoun Resolution	https://openreview.net/pdf/21dc895fcb0693af3bbfb1bd383f60d6fca64255.pdf
+Q09	Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions	https://arxiv.org/html/2605.15217v1
+Q09	Shifting Perspectives: Steering Vectors for Robust Bias Mitigation in LLMs	https://arxiv.org/html/2503.05371v3
+Q09	On Optimal Steering to Achieve Exact Fairness	https://arxiv.org/html/2509.15759
+Q09	Steering Towards Fairness: Mitigating Political Bias in LLMs	https://arxiv.org/pdf/2508.08846
+Q09	DSO: Direct Steering Optimization for Bias Mitigation	https://arxiv.org/html/2512.15926
+Q09	Robustly Improving LLM Fairness in Realistic Settings via Interpretability	https://arxiv.org/pdf/2506.10922
+Q09	Shifting Perspectives: Steering Vector Ensembles for Robust Bias Mitigation in LLMs	https://arxiv.org/html/2503.05371v1
+Q09	Prompt Fairness: Sub-group Disparities in LLMs	https://arxiv.org/html/2511.19956v1
+Q09	The Geography of Algorithmic Judgment: LLM Intermediaries, Place Identity, and Racial Steering in Housing Search	https://arxiv.org/html/2606.06694
+Q09	Debias your Large Multi-Modal Model at Test-Time via Non-Contrastive Visual Attribute Steering	https://arxiv.org/html/2411.12590
+Q10	Improving LLM Group Fairness on Tabular Data via In-Context Learning	https://arxiv.org/html/2412.04642v1
+Q10	Group Fairness Meets the Black Box: Enabling Fair Algorithms on Closed LLMs via Post-Processing	https://arxiv.org/html/2508.11258
+Q10	In-Context Bias Propagation in LLM-Based Tabular Data Generation	https://arxiv.org/html/2506.09630
+Q10	Inducing Group Fairness in LLM-Based Decisions	https://arxiv.org/html/2406.16738v1
+Q10	Prompt Fairness: Sub-group Disparities in LLMs	https://arxiv.org/html/2511.19956v1
+Q10	In-Context Bias Propagation in LLM-Based Tabular Data Generation	https://arxiv.org/pdf/2506.09630
+Q10	Auditing LLMs for Algorithmic Fairness in Casenote-Augmented Tabular Prediction	https://arxiv.org/html/2604.19204
+Q10	Intrinsic Meets Extrinsic Fairness: Assessing the Downstream Impact of Bias Mitigation in Large Language Models	https://arxiv.org/html/2509.16462v1
+Q10	Inducing Group Fairness in Prompt-Based Language Model Decisions	https://arxiv.org/html/2406.16738v2
+Q10	FACTER: Fairness-Aware Conformal Thresholding and Prompt Engineering for Enabling Fair LLM-Based Recommender Systems	https://arxiv.org/html/2502.02966v1
+Q11	Mitigating Biases in Language Models via Bias Unlearning	https://arxiv.org/html/2509.25673v1
+Q11	BiasEdit: Debiasing Stereotyped Language Models via Model Editing	https://arxiv.org/html/2503.08588v1
+Q11	Robustly Improving LLM Fairness in Realistic Settings via Interpretability	https://arxiv.org/pdf/2506.10922
+Q11	Precise In-Parameter Concept Erasure in Large Language Models	https://arxiv.org/html/2505.22586v2
+Q11	Dual Debiasing: Remove Stereotypes and Keep Factual Gender for Fair Language Modeling and Translation	https://arxiv.org/html/2501.10150v1
+Q11	Debiasing Without Protected Attributes: Latent Concept Erasure from Textual Profiles	https://arxiv.org/html/2606.12088v1
+Q11	BiasEdit: Debiasing Stereotyped Language Models via Model Editing	https://arxiv.org/abs/2503.08588
+Q11	A Heuristic Perspective on Debiasing Language Models	https://arxiv.org/html/2608.00622v1
+Q11	Debiasing Algorithm through Model Adaptation	https://arxiv.org/html/2310.18913v2
+Q11	Hidden, Not Deleted: How Networks Suppress Entangled Features	https://arxiv.org/html/2609.27593.pdf
+Q12	Robustly Improving LLM Fairness in Realistic Settings via Interpretability	https://openreview.net/pdf?id=fHBb8BisyW
+Q12	Test-Time Fairness and Robustness in Large Language Models	https://openreview.net/forum?id=1fML4VF5FG
+Q12	Aligned but Stereotypical? Understanding and Mitigating Social Bias in LLM-Driven Text-to-Image Models	https://openreview.net/forum?id=RvgoRhan6d
+Q12	Mitigating Test-Time Bias for Fair Image Retrieval	https://proceedings.neurips.cc/paper_files/paper/2023/file/e24570da4fa1c005b189104250993aee-Paper-Conference.pdf
+Q12	Uncovering and Mitigating Tool Selection Bias in LLMs	https://openreview.net/pdf/42b5c90351fef4c9a0ff4c90f48cc99040cb1b8f.pdf
+Q12	PersonBias: A Lightweight Framework for Personalized Bias Mitigation in Large Language Models	https://openreview.net/forum?id=7FfZc9MePg
+Q12	Bi-directional Bias Attribution: Debiasing Large Language Models without Modifying Prompts	https://openreview.net/forum?id=mUTN9VIaSy
+Q12	Robustness in Large Language Models: A Survey of Mitigation Strategies	https://openreview.net/notes/edits/attachment?id=VQxuxZeGHE&name=pdf
+Q12	Large Language Models Develop Novel Social Biases Through Adaptive Exploration	https://openreview.net/pdf?id=WriYV2ipL8
+Q12	On the Effectiveness and Generalization of Race Representations for Debiasing High-Stakes Decisions	https://openreview.net/forum?id=DDtwtoAMjA
+Q13	Strategic Demonstration Selection for Improved Fairness in LLM In-Context Learning	https://aclanthology.org/2024.emnlp-main.425.pdf
+Q13	Confronting LLMs with Traditional ML: Rethinking the Fairness of Large Language Models in Tabular Classifications	https://aclanthology.org/2024.naacl-long.198/
+Q13	Strategic Demonstration Selection for Improved Fairness in LLM In-Context Learning	https://aclanthology.org/2024.emnlp-main.425/
+Q13	Evaluating Implicit and Intersectional Identity Bias in LLMs	https://aclanthology.org/2025.findings-emnlp.814.pdf
+Q13	Fair-CCD: Mitigating Bias in Large Language Models for Tabular Classification Through Context-Contrastive Decoding	https://aclanthology.org/2026.acl-long.1317/
+Q13	Evaluating Fairness in Large Vision-Language Models	https://aclanthology.org/2025.findings-emnlp.1251.pdf
+Q13	Large Language Models Still Exhibit Bias in Long Text	https://aclanthology.org/2025.findings-acl.1341.pdf
+Q13	Learning Prompts for Debiasing Large Language Models	https://aclanthology.org/2024.ltedi-1.6.pdf
+Q13	A Group Fairness Lens for Large Language Models	https://aclanthology.org/2025.findings-emnlp.431.pdf
+Q13	Mitigating Unwanted Biases with Adversarial Learning	https://dl.acm.org/doi/pdf/10.1145/3278721.3278779
+Q14	Robustly Improving LLM Fairness in Realistic Settings via Interpretability	https://arxiv.org/html/2506.10922v1
+Q14	Self-Blinding and Counterfactual Self-Simulation Mitigate Biases and Sycophancy in Large Language Models	https://arxiv.org/html/2601.14553
+Q14	On the Effectiveness and Generalization of Race Representations for Debiasing High-Stakes Decisions	https://arxiv.org/pdf/2504.06303
+Q14	(ICLR 2025 paper, arXiv 2403.08743)	https://arxiv.org/pdf/2403.08743
+Q14	Gender Bias in LLM Hiring Decisions: Evidence from a Japanese Context and Evaluation of Mitigation Strategies	https://arxiv.org/pdf/2606.18649
+Q14	On the Effectiveness and Generalization of Race Representations for Debiasing High-Stakes Decisions	https://arxiv.org/html/2504.06303
+Q14	Who Gets the Callback? Generative AI and Gender Bias	https://arxiv.org/html/2504.21400v1
+Q14	Gender Bias in LLM Hiring Decisions: Evidence from a Japanese Context and Evaluation of Mitigation Strategies	https://arxiv.org/html/2606.18649
+Q14	Quantitative Certification of Bias in Large Language Models	https://arxiv.org/pdf/2405.18780
+Q14	A Counterfactual LLM Framework for Detecting Human Biases	https://arxiv.org/pdf/2511.17124
+Q15	Breaking Bias, Building Bridges: Evaluation and Mitigation of Social Biases in LLMs via Contact Hypothesis	https://ojs.aaai.org/index.php/AIES/article/download/31715/33882
+Q15	Breaking Bias, Building Bridges: Evaluation and Mitigation of Social Biases in LLMs via Contact Hypothesis	https://ojs.aaai.org/index.php/AIES/article/view/31715
+Q15	Exposing AI Bias by Crowdsourcing: Democratizing Critique of Large Language Models	https://ojs.aaai.org/index.php/AIES/article/download/36620/38758
+Q15	Bias Unveiled: Investigating Social Bias in LLM-Generated Code	https://ojs.aaai.org/index.php/AAAI/article/view/34961/37116
+Q15	How Are LLMs Mitigating Stereotyping Harms? Learning from Search Engine Studies	https://ojs.aaai.org/index.php/AIES/article/download/31684/33851/35748
+Q15	Mitigating Social Bias in Large Language Models: A Multi-Objective Approach Within a Multi-Agent Framework	https://ojs.aaai.org/index.php/AAAI/article/view/34748
+Q15	Investigating and Mitigating Undesirable Biases in Large Language Models	https://ojs.aaai.org/index.php/AAAI/article/view/35214/37369
+Q15	Bias Unveiled: Investigating Social Bias in LLM-Generated Code	https://dl.acm.org/doi/10.1609/aaai.v39i26.34961
+Q15	Exploring and Mitigating Implicit Bias in Large Language Models: A Cross-Domain Study	https://ojs.aaai.org/index.php/AAAI/article/view/35329/37484
+Q15	Bias Is a Math Problem, AI Bias Is a Technical Problem: 10-Year Literature Review	https://ojs.aaai.org/index.php/AIES/article/download/36613/38751/40688
+Q16	KnowBias: Mitigating Social Bias in LLMs via Know-Bias Neuron Enhancement	https://arxiv.org/html/2601.21864
+Q16	Fairness Evaluation and Inference Level Mitigation in LLMs	https://arxiv.org/html/2510.18914
+Q16	Knowing Bias, Doing Better: Mitigating Social Bias in LLMs via Know-Bias Neuron Enhancement	https://arxiv.org/abs/2601.21864
+Q16	Breaking Down Bias: On The Limits of Generalizable Pruning Strategies	https://arxiv.org/html/2502.07771v1
+Q16	Interpretable Debiasing of Vision-Language Models for Social Fairness	https://arxiv.org/html/2602.24014
+Q16	Context-aware Fairness Evaluation and Mitigation in LLMs	https://arxiv.org/html/2510.18914v1
+Q16	Bi-directional Bias Attribution: Debiasing Large Language Models without Modifying Prompts	https://arxiv.org/html/2602.04398
+Q16	Debiasing LLMs by Masking Unfairness-Driving Attention Heads	https://arxiv.org/html/2510.10142
+Q16	The Devil is in the Neurons: Interpreting and Mitigating Social Biases in Pre-trained Language Models	https://arxiv.org/html/2406.10130v1
+Q16	Breaking Down Bias: On The Limits of Generalizable Pruning Strategies	https://arxiv.org/abs/2502.07771
+Q17	Towards Fair In-Context Learning with Tabular Foundation Models	https://arxiv.org/pdf/2505.09503
+Q17	Towards Fair In-Context Learning with Tabular Foundation Models	https://pure.etsmtl.ca/en/publications/towards-fair-in-context-learning-with-tabular-foundation-models/
+Q17	Towards Fair In-Context Learning with Tabular Foundation Models	https://pure.etsmtl.ca/fr/publications/towards-fair-in-context-learning-with-tabular-foundation-models/
+Q17	Towards Fair In-Context Learning with Tabular Foundation Models	https://arxiv.org/abs/2505.09503v3
+Q17	Towards Fair In-Context Learning with Tabular Foundation Models	https://arxiv.org/html/2505.09503v3
+Q17	Towards Fair In-Context Learning with Tabular Foundation Models	https://arxiv.org/pdf/2505.09503v3
+Q17	Towards Fair In-Context Learning with Tabular Foundation Models	https://arxiv.org/html/2505.09503v4
+Q17	(openreview pdf, Towards Fair In-Context Learning with Tabular Foundation Models)	https://openreview.net/pdf/602b690b35f3fcb329ceee19eb3ecc09ac713e16.pdf
+Q17	fair icd (emergentmind topic page)	https://www.emergentmind.com/topics/fair-icd
+Q17	Towards Fair In-Context Learning with Tabular Foundation Models	https://mlanthology.org/tmlr/2026/kenfack2026tmlr-fair
+Q18	Bias and Fairness in Large Language Models: A Survey (blog summary)	https://montrealethics.ai/bias-and-fairness-in-large-language-models-a-survey/
+Q18	Bias and Fairness in Large Language Models: A Survey	https://arxiv.org/html/2309.00770v2
+Q18	Bias and Fairness in Large Language Models: A Survey	https://arxiv.org/html/2309.00770v3
+Q18	Bias and Fairness in Large Language Models: A Survey	https://aclanthology.org/2024.cl-3.8.pdf
+Q18	Bias and Fairness in Large Language Models: A Survey	https://www.arxiv-vanity.com/papers/2309.00770
+Q18	Bias and Fairness in Large Language Models: A Survey	https://arxiv.org/pdf/2309.00770
+Q18	Fairness in Large Language Models: A Taxonomic Survey (review)	https://www.themoonlight.io/de/review/fairness-in-large-language-models-a-taxonomic-survey
+Q18	Fairness in Large Language Models: A Taxonomic Survey (review)	https://www.themoonlight.io/tw/review/fairness-in-large-language-models-a-taxonomic-survey
+Q18	Bias and Fairness in Large Language Models: A Survey	https://arxiv.org/abs/2309.00770v1
+Q19	Prompting Fairness: Integrating Causality to Debias Large Language Models	https://arxiv.org/abs/2403.08743
+Q19	Prompting Fairness: Integrating Causality to Debias Large Language Models	https://arxiv.org/pdf/2403.08743
+Q19	Prompting Fairness: Integrating Causality to Debias Large Language Models	https://arxiv.org/html/2403.08743v2
+Q19	Causal-Guided Active Learning for Debiasing Large Language Models	https://arxiv.org/html/2408.12942v1
+Q19	Causal Prompting: Debiasing Large Language Model Prompting based on Front-Door Adjustment	https://arxiv.org/pdf/2403.02738
+Q19	Causal Prompting: Debiasing Large Language Model Prompting based on Front-Door Adjustment	https://arxiv.org/pdf/2403.02738v2
+Q19	Evaluating and Mitigating Social Bias for Large Language Models in Open-ended Settings	https://arxiv.org/pdf/2412.06134
+Q19	LLMs Must Use Functor-Based and RAG-Driven Bias Mitigation	https://arxiv.org/pdf/2603.07368
+Q19	Robustly Improving LLM Fairness in Realistic Settings via Interpretability	https://arxiv.org/html/2506.10922v1
+Q19	Evaluating LLMs for Demographic-Targeted Social Bias Detection: A Comprehensive Benchmark Study	https://arxiv.org/html/2510.04641v1
+Q20	Group Fairness Meets the Black Box: Enabling Fair Algorithms on Closed LLMs via Post-Processing	https://arxiv.org/html/2508.11258
+Q20	Uncertainty and Fairness Awareness in LLM-Based Recommendation Systems	https://arxiv.org/html/2602.02582v1
+Q20	Few-Shot Fairness: Unveiling LLM's Potential for Fairness-Aware Classification	https://arxiv.org/html/2402.18502v1
+Q20	PerFairX: Is There a Balance Between Fairness and Personality in Large Language Model Recommendations?	https://arxiv.org/html/2509.08829
+Q20	Can Fairness Be Prompted?	https://arxiv.org/html/2603.12935
+Q20	Prompting without Panic: Attribute-aware, Zero-shot, Test-Time Calibration	https://arxiv.org/html/2506.22819v1
+Q20	The Impossibility of Fair LLMs	https://arxiv.org/html/2406.03198
+Q20	FACTER: Fairness-Aware Conformal Thresholding and Prompt Engineering for Enabling Fair LLM-Based Recommender Systems	https://arxiv.org/html/2502.02966
+Q20	FairCoT: Enhancing Fairness in Diffusion Models via Chain of Thought Reasoning of Multimodal Language Models	https://arxiv.org/html/2406.09070v2
+Q20	Prompt Fairness: Sub-group Disparities in LLMs	https://arxiv.org/html/2511.19956v1
+Q21	Social Bias Evaluation for Large Language Models	https://aclanthology.org/2025.findings-emnlp.783.pdf
+Q21	Does Reasoning Introduce Bias? A Study of Social Bias Evaluation and Mitigation in LLM Reasoning	https://aclanthology.org/2025.findings-emnlp.1006.pdf
+Q21	Rethinking Prompt-based Debiasing in Large Language Models	https://aclanthology.org/2025.findings-acl.1361.pdf
+Q21	Does Reasoning Introduce Bias? A Study of Social Bias Evaluation and Mitigation in LLM Reasoning	https://aclanthology.org/2025.findings-emnlp.1006/
+Q21	Persona-Assigned Large Language Models Exhibit Human-like Biases	https://aclanthology.org/2026.findings-acl.585.pdf
+Q21	Sparsity-Driven Calibration for Systematic and Interpretable Mitigation of Social Biases in LLMs	https://aclanthology.org/2025.findings-emnlp.134.pdf
+Q21	BiasDPO: Mitigating Bias in Language Models through Direct Preference Optimization	https://aclanthology.org/2024.acl-srw.7.pdf
+Q21	On the Efficacy of Structured Prompts for Debiasing	https://aclanthology.org/2024.emnlp-main.13.pdf
+Q21	Mind the Gap: Multilingual Divide in LLM Bias Detection and Reasoning	https://aclanthology.org/2026.acl-srw.117/
+Q21	A Group Fairness Lens for Large Language Models	https://aclanthology.org/2025.findings-emnlp.431.pdf
+Q22	Robustly Improving LLM Fairness in Realistic Settings via Interpretability	https://arxiv.org/html/2506.10922v1
+Q22	Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions	https://arxiv.org/html/2605.15217
+Q22	Race, Ethnicity and Their Implication on Bias in Large Language Models	https://arxiv.org/html/2601.12868v1
+Q22	Robustly Improving LLM Fairness in Realistic Settings via Interpretability	https://arxiv.org/abs/2506.10922
+Q22	Silenced Biases: The Dark Side LLMs Learned to Refuse	https://arxiv.org/html/2511.03369v1
+Q22	Correcting Influence: Unboxing LLM Outputs with Orthogonal Latent Spaces	https://arxiv.org/html/2605.12809v1
+Q22	Constructing Fair Latent Space for Intersection of Fairness and Explainability	https://arxiv.org/html/2412.17523v1
+Q22	DAIQ: Auditing Demographic Attribute Inference from Neutral Question in LLMs	https://arxiv.org/pdf/2508.15830
+Q22	Fairness Evaluation and Inference Level Mitigation in LLMs	https://arxiv.org/html/2510.18914v3
+Q22	LLMs Must Use Functor-Based and RAG-Driven Bias Mitigation	https://arxiv.org/pdf/2603.07368
